@@ -1,2 +1,23 @@
-# OIBSIP
-This repository contains all the tasks and projects completed during the Oasis Infobyte Internship Program.
+# OIBSIP Internship Projects
+
+## Task 2 - BMI Calculator
+
+### Console Version
+- File: BMICalculator/Aswathi_Task2.py  
+- Input: Weight (kg), Height (cm)  
+- Output: BMI value and category  
+
+**Screenshot:**  
+![Console Output](BMICalculator/screenshots/console.png)
+
+---
+
+### GUI Version
+- File: BMICalculator/Aswathi_Task2_GUI.py  
+- Features:
+  - User-friendly interface  
+  - Color-coded results  
+  - Reset button  
+
+**Screenshot:**  
+![GUI Output](BMICalculator/screenshots/gui.png)
