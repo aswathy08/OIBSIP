@@ -19,3 +19,19 @@
 
 ### GUI Version
 ![GUI Output](BMICalculator/screenshots/gui.png)
+
+
+## Task 3 - Password Generator
+
+### Purpose
+Generates secure random passwords based on user preferences.
+
+### Features
+- User chooses password length
+- Options to include uppercase, lowercase, digits, and symbols
+- Guarantees at least one character from each chosen type
+- Strength meter (Weak / Medium / Strong)
+
+### How to Run
+```bash
+python Aswathi_Task3.py
