@@ -39,3 +39,22 @@
 - Guarantees at least one character from each chosen type  
 - Strength meter (Weak / Medium / Strong)  
 
+
+## Task 4 - Weather App
+
+### Console/GUI Version
+- File: WeatherApp/Aswathi_Task4.py  
+- Input: City name  
+- Output: Real-time weather details (temperature, humidity, condition)  
+
+**Screenshot:**  
+![Weather Output](WeatherApp/screenshots/output.png)
+
+---
+
+### Features
+- Fetches live weather data using OpenWeatherMap API  
+- Displays temperature, humidity, and weather condition  
+- User-friendly interface (if GUI version implemented)  
+- Error handling for invalid city names  
+
