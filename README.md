@@ -11,4 +11,11 @@
 ![Console Output](BMICalculator/screenshots/console.png)
 
 ### GUI Version
+- File: BMICalculator/Aswathi_Task2_GUI.py  
+- Features:
+  - User-friendly interface  
+  - Color-coded results  
+  - Reset button 
+
+### GUI Version
 ![GUI Output](BMICalculator/screenshots/gui.png)
