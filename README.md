@@ -23,18 +23,19 @@
 
 ## Task 3 - Password Generator
 
-### Purpose
-Generates secure random passwords based on user preferences.
+### Console Version
+- File: PasswordGenerator/Aswathi_Task3.py  
+- Input: Password length, choices for uppercase/lowercase/digits/symbols  
+- Output: Generated password and strength category  
 
-### Features
-- User chooses password length
-- Options to include uppercase, lowercase, digits, and symbols
-- Guarantees at least one character from each chosen type
-- Strength meter (Weak / Medium / Strong)
-
-### How to Run
-Open your terminal/command prompt and type:
-```bash
-python Aswathi_Task3.py  
 **Screenshot:**  
 ![Output](PasswordGenerator/screenshots/output.png)
+
+---
+
+### Features
+- User chooses password length  
+- Options to include uppercase, lowercase, digits, and symbols  
+- Guarantees at least one character from each chosen type  
+- Strength meter (Weak / Medium / Strong)  
+
