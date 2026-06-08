@@ -33,5 +33,8 @@ Generates secure random passwords based on user preferences.
 - Strength meter (Weak / Medium / Strong)
 
 ### How to Run
+Open your terminal/command prompt and type:
 ```bash
 python Aswathi_Task3.py
+**Screenshot:**  
+![Password Generator Output](PasswordGenerator/screenshots/output.png)
