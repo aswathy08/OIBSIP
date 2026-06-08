@@ -8,7 +8,7 @@ def bmi_calculator():
         height_m = height_cm / 100  
 
         # BMI formula
-        bmi = weight / (height ** 2)
+        bmi = weight / (height_m ** 2)
 
         # Categorization
         if bmi < 18.5:
