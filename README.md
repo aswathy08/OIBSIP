@@ -1,5 +1,27 @@
 # OIBSIP Internship Projects
 
+## Task 1 - Chat Application
+
+### Console Version
+- File: ChatApplication/Aswathi_Task1.py  
+- Input: Messages typed by user  
+- Output: Real-time chat exchange between server and client  
+
+**Screenshots:**  
+Server view:  
+![Server Output](ChatApplication/screenshots/server.png)  
+
+Client view:  
+![Client Output](ChatApplication/screenshots/client.png)  
+
+---
+
+### Features
+- Server and client combined in one file  
+- Real-time communication using socket programming  
+- Beginner-friendly implementation with clear choice menu  
+
+
 ## Task 2 - BMI Calculator
 
 ### Console Version
