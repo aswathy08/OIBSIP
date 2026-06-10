@@ -5,7 +5,3 @@ tempCodeRunnerFile.py
 __pycache__/
 *.pyc
 *.pyo
-
-# Ignore screenshots or output images if you don’t want them in repo
-screenshots/
-output.png
