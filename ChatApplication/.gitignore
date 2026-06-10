@@ -1,0 +1,11 @@
+# Ignore VS Code temp files
+tempCodeRunnerFile.py
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore screenshots or output images if you don’t want them in repo
+screenshots/
+output.png
