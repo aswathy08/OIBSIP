@@ -3,7 +3,7 @@
 **Internship:** Oasis Infobyte  
 **Duration:** june 2026 – July 2026  
 **GitHub Repository:** [Click Here](https://github.com/aswathy08/OIBSIP)  
-**Demo Video:** [Watch Here](https://github.com/aswathy08/OIBSIP/blob/main/record.mp4)  
+**Demo Video:** [Watch Here](https://drive.google.com/file/d/14g_47T_hsfZBMlY7u-sIhTN3MDY3r5kp/view?usp=sharing)  
 
 
 ----
