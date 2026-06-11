@@ -22,7 +22,7 @@ A simple voice assistant that responds to user commands.
 
 ### How to Run
 ```bash
-py -3.11 VoiceAssistant/Aswathi_Task1.py
+py -3.11 VoiceAssistant/Aswathi_Task1.py'''
 
 
 ## 🧑‍💻 Task 2 – BMI Calculator
