@@ -20,10 +20,6 @@ A simple voice assistant that responds to user commands.
 - Executes basic commands (say hello, tell time, etc.)  
 - Runs in **Python 3.11**
 
-### How to Run
-```bash
-py -3.11 VoiceAssistant/Aswathi_Task1.py'''
-
 
 ## 🧑‍💻 Task 2 – BMI Calculator
 
