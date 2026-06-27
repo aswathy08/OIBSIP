@@ -13,7 +13,7 @@
 A simple voice assistant that responds to user commands.
 
 **Screenshot:**  
-![Output](VoiceAssistant/screenshots/output.png)  
+![Output](OIBSIP_PythonProgramming_Task1/screenshots/output.png)  
 
 ### Features
 - Speech recognition and text‑to‑speech  
@@ -24,35 +24,35 @@ A simple voice assistant that responds to user commands.
 ## 🧑‍💻 Task 2 – BMI Calculator
 
 ### Console Version
-- **File:** BMICalculator/Aswathi_Task2.py  
+- **File:** [text](OIBSIP_PythonProgramming_Task2)/Aswathi_Task2.py  
 - **Input:** Weight (kg), Height (cm)  
 - **Output:** BMI value and category  
 
 **Screenshot:**  
-![Console Output](BMICalculator/screenshots/console.png)  
+![Console Output](OIBSIP_PythonProgramming_Task2/screenshots/console.png)  
 
 ---
 
 ### GUI Version
-- **File:** BMICalculator/Aswathi_Task2_GUI.py  
+- **File:** [text](OIBSIP_PythonProgramming_Task2)/Aswathi_Task2_GUI.py  
 - **Features:**  
   - User‑friendly interface  
   - Color‑coded results  
   - Reset button  
 
 **Screenshot:**  
-![GUI Output](BMICalculator/screenshots/gui.png)  
+![GUI Output](OIBSIP_PythonProgramming_Task2/screenshots/gui.png)  
 
 
 ##👨‍💻 Task 3 - Password Generator
 
 ### Console Version
-- File: PasswordGenerator/Aswathi_Task3.py  
+- File: [text](OIBSIP_PythonProgramming_Task3)/Aswathi_Task3.py  
 - Input: Password length, choices for uppercase/lowercase/digits/symbols  
 - Output: Generated password and strength category  
 
 **Screenshot:**  
-![Output](PasswordGenerator/screenshots/output.png)
+![Output](OIBSIP_PythonProgramming_Task3/screenshots/output.png)
 
 ---
 
@@ -66,12 +66,12 @@ A simple voice assistant that responds to user commands.
 ## 🧑‍💻 Task 4 – Weather App
 
 ### Console Version
-- **File:** WeatherApp/Aswathi_Task4.py  
+- **File:** [text](OIBSIP_PythonProgramming_Task4)/Aswathi_Task4.py  
 - **Input:** City name  
 - **Output:** Real‑time weather details (temperature, humidity, condition)  
 
 **Screenshot:**  
-![Weather Output](WeatherApp/screenshots/output.png)  
+![Weather Output](OIBSIP_PythonProgramming_Task4/screenshots/output.png)  
 
 ---
 
@@ -97,8 +97,8 @@ It enables real‑time communication between multiple users through a web interf
 ---
 
 **Screenshot:**  
-![Browser Screenshot 1](ChatApplication/screenshots/browser_1.png)  
-![Browser Screenshot 2](ChatApplication/screenshots/browser_2.png)  
+![Browser Screenshot 1](OIBSIP_PythonProgramming_Task5/screenshots/browser_1.png)  
+![Browser Screenshot 2](OIBSIP_PythonProgramming_Task5/screenshots/browser_2.png)  
 
 ---
 
@@ -119,7 +119,7 @@ It enables real‑time communication between multiple users through a web interf
 
 ### How to Run
 ```bash 
-  py -3.14 ChatApplication/Aswathi_Task5.py
+  py -3.14 OIBSIP_PythonProgramming_Task5/Aswathi_Task5.py
   [http://localhost:5000](http://localhost:5000)
 
 
